@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @nhunguet
+- 👋 Hi, I’m @nhung
 - 👀 I’m interested in reading, coding and making happy life
-- 🌱 I’m currently learning Machine Learning, Cyber Security 
-- 💞️ I’m looking to collaborate on machine learning and sortware engineering
-
+- 🌱 I’m currently learning Machine Learning and Cyber Security 
 
 <!---
 nhunguet/nhunguet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

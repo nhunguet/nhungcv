@@ -4,7 +4,6 @@
 
 
 This is my CV:
-https://nhunguet.github.io/nhungcv/
 Https://nhungcnc.com
 <!---
 nhunguet/nhunguet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
